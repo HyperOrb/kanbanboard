@@ -21,22 +21,22 @@
 
 ### 1. Adding a New Task ➕
 
-**![Alt Text Here](https://i.imgur.com/2gF9oSy.gif)**
+**![1](https://i.imgur.com/2gF9oSy.gif)**
 
 
 ### 2. Moving Tasks Between Columns ➡️
 
-**![Alt Text Here](https://i.imgur.com/N70i3Zu.gif)**
+**![2](https://i.imgur.com/N70i3Zu.gif)**
 
 
 ### 3. Editing a Task ✍️
 
-**![Alt Text Here](https://i.imgur.com/1z81b90.gif)**
+**![3](https://i.imgur.com/1z81b90.gif)**
 
 
 ### 4. User Authentication (Login/Logout) 🔒
 
-**![Alt Text Here](https://i.imgur.com/SWeFBvR.gif)**
+**![4](https://i.imgur.com/SWeFBvR.gif)**
 
 
 ## 🛠️ Tech Stack
